@@ -10,7 +10,7 @@
 <img src="https://media.topito.com/wp-content/uploads/2015/04/cheveux.gif" alt="Mulan wanting to be part of the men's world, just like us; developer girls." width="400">
     </td>
     <td>
-<img src="https://github-readme-stats.vercel.app/api?username=NataliaRosarioOliveira&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Natalia Rosario's GitHub stats" width="600">
+<img src="https://github-readme-stats.vercel.app/api?username=NataliaRosarioOliveira&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Natalia Rosario's GitHub stats" width="700">
    </a>
   </td>
  </tr>
