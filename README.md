@@ -19,7 +19,7 @@
 
 ## 
 
-I'm a Computer Science student at Anhembi Morumbi University based in São Paulo, Brazil. Beyond my formal education, I'm passionate about expanding my knowledge through various online platforms like Alura.
+I'm a Marketing student at São Judas Tadeu University based in São Paulo, Brazil. Beyond my formal education, I'm passionate about expanding my knowledge through various online platforms like Alura.
 
 Outside of academics, I have a few quirks and interests that keep life interesting. Firstly, I'm a proud owner of three adorable pugs, one lovely Pinscher, and a mischievous cat. They bring so much joy and chaos to my daily routine! 🐶😺
 
