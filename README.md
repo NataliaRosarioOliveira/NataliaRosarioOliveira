@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-<img src="https://www.tumblr.com/jubpajub7/186154928542/about-mulans-not-cutting-her-hair" alt="Mulan wanting to be part of the men's world, just like us; developer girls." width="400">
+<img src="https://tenor.com/pt-BR/view/mulan-haircut-sword-brave-slice-gif-9774004" alt="Mulan wanting to be part of the men's world, just like us; developer girls." width="400">
     </td>
     <td>
 <img src="https://github-readme-stats.vercel.app/api?username=NataliaRosarioOliveira&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Natalia Rosario's GitHub stats" width="700">
